@@ -23,6 +23,7 @@ hi, i'm zoey 👋
 
 - 🧠 **[everything-about-llm](https://github.com/lateaugustina/everything-about-llm)** — everything i learn about llms, from an ai product management perspective.
 - 🔬 **[ai-product-teardown](https://github.com/lateaugustina/ai-product-teardown)** — hands-on teardowns of ai products, features, agents, and ai-powered experiences.
+- ✍️ **[how-to-write](https://github.com/lateaugustina/study-notes/blob/main/others/how-to-write.md)** — notes & thought on how to write for your readers.
 
 ## 🔭 signal notes
 
