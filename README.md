@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/lateaugustina/lateaugustina/main/banner.svg" width="100%" alt="github profile banner">
 </p>
+
 <p align="center">
-  <a href="README.md">en</a> | <a href="README_CN.md">中文</a>
+  <a href="README.md">en</a> | <a href="README-zh.md">中文</a>
 </p>
 hi, i'm zoey 👋
 
