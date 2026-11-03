@@ -24,6 +24,7 @@
 
 - 🧠 **[everything-about-llm](https://github.com/lateaugustina/everything-about-llm)** — 从aipm的视角记录我对llm的所有学习。
 - 🔬 **[ai-product-teardown](https://github.com/lateaugustina/ai-product-teardown)** — 对ai产品、功能、agent及ai驱动的用户体验进行实操拆解。
+- ✍️ **[how-to-write](https://github.com/lateaugustina/study-notes/blob/main/others/how-to-write.md)** — 关于如何为读者写作的笔记与思考。
 
 ## 🔭 行业观察
 
