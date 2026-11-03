@@ -14,7 +14,7 @@
 - 🔍 **[querylens](https://github.com/lateaugustina/QueryLens)** — 面向产品经理的人工智能驱动的sql分析与审查工具。
 - 🌷 **[firstlook](https://github.com/lateaugustina/firstlook)** — 一个基于注意力机制的信息流选题工具。
 - 🎀 **[magazine-new-tab](https://github.com/lateaugustina/magazine-new-tab)** — 一款将浏览器新标签页变成杂志的谷歌浏览器扩展。
-- 👻 **[ghost-this](https://github.com/lateaugustina/ghost-this)** — 一个帮你ghost掉坏毛习惯的万圣节幽灵打印机。
+- 👻 **[ghost-this](https://github.com/lateaugustina/ghost-this)** — 一个帮你ghost掉坏习惯的万圣节幽灵打印机。
 
 ## 📚 学习项目
 
