@@ -30,6 +30,12 @@ hi, i'm zoey 👋
 - 🌌 **[2026-ai-factory-change](https://github.com/lateaugustina/signal-notes/blob/main/2026-ai-factory-change.md)** — 2026 year in review: how the ai industry changed and what to watch next.
 - ⚖️ **[technology-value-analysis](https://github.com/lateaugustina/signal-notes/blob/main/tech-dev-benefit-analyst.md)** — who benefits at each stage of technological development, and how to assess your own value.
 
+## 🧪 research log
+
+- 🔍 **[eval-methods](https://github.com/lateaugustina/research-log/blob/main/search-evals/eval-methods.md)** — a practical ai product evaluation and iteration methodology, drawing on industry practitioners' experience and real-world cases.
+- 🤖 **[openai-evaluation-best-practices-note](https://github.com/lateaugustina/research-log/blob/main/search-evals/openai-evaluation-best-practices-note.md)** — learning notes on openai's evaluation framework for ai agents.
+- 🧠 **[demystifying-evals-for-ai-agents-note](https://github.com/lateaugustina/research-log/blob/main/search-evals/demystifying-evals-for-ai-agents-note.md)** — learning notes on anthropic's approach to evaluating ai agents.
+
 ## 💜 areas of interest
 
 personal explorations, side research, reading notes, paper notes, and essays across different areas.
