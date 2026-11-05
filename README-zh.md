@@ -11,7 +11,7 @@
 ## 项目
 
 - 🫧 **[murmur ai](https://github.com/lateaugustina/murmur-ai)** — 一款由ai驱动的沟通工具。
-- 🔍 **[querylens](https://github.com/lateaugustina/QueryLens)** — 面向产品经理的人工智能驱动的sql分析与审查工具。
+- 🔍 **[querylens](https://github.com/lateaugustina/QueryLens)** — 面向产品经理的ai驱动的sql分析与审查工具。
 - 🌷 **[firstlook](https://github.com/lateaugustina/firstlook)** — 一个基于注意力机制的信息流选题工具。
 - 🎀 **[magazine-new-tab](https://github.com/lateaugustina/magazine-new-tab)** — 一款将浏览器新标签页变成杂志的谷歌浏览器扩展。
 - 👻 **[ghost-this](https://github.com/lateaugustina/ghost-this)** — 一个帮你ghost掉坏习惯的万圣节幽灵打印机。
@@ -30,6 +30,12 @@
 
 - 🌌 **[2026-ai-factory-change](https://github.com/lateaugustina/signal-notes/blob/main/2026-ai-factory-change.md)** — 2026年度回顾：ai行业发生了怎样的变化，以及未来值得关注什么。
 - ⚖️ **[technology-value-analysis](https://github.com/lateaugustina/signal-notes/blob/main/tech-dev-benefit-analyst.md)** — 技术发展的各个阶段中，谁在获益，以及如何评估自身价值。
+
+## 🧪 研究学习
+
+- 🔍 **[eval-methods](https://github.com/lateaugustina/research-log/blob/main/search-evals/eval-methods.md)** — 基于行业实践经验与真实案例，探索一套实用的 AI 产品评估与迭代方法论。
+- 🤖 **[openai-evaluation-best-practices-note](https://github.com/lateaugustina/research-log/blob/main/search-evals/openai-evaluation-best-practices-note.md)** — 学习 OpenAI 的 AI Agent 评估体系与最佳实践。
+- 🧠 **[demystifying-evals-for-ai-agents-note](https://github.com/lateaugustina/research-log/blob/main/search-evals/demystifying-evals-for-ai-agents-note.md)** — 学习 Anthropic 的 AI Agent 评估方法与实践。
 
 ## 💜 兴趣领域
 
